@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Svelte DEMPAPP" />
 </svelte:head>
 
 <section>
@@ -45,7 +45,7 @@
 	.welcome {
 		display: block;
 		position: relative;
-		width: 100%;
+		width: 10%;
 		height: 0;
 		padding: 0 0 calc(100% * 495 / 2048) 0;
 	}
